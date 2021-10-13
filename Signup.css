@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: cursive;
+}
+body{
+    background: url(image/back15.jpg);
+    background-size: cover;
+}
+
+.signup-form{
+
+    width: 350px;
+    top: 0%;
+    left: 35%;
+    position: absolute;
+
+}
+.signup-form h1{
+    font-size: 40px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+.signup-form p{
+    font-size: 18px;
+    color: white;
+    margin: 15px 0px;
+
+
+}
+.signup-form input{
+
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    border-radius: 5px;
+    border:0;
+}
+.signup-form button{
+
+    width:50%;
+    margin:20px 0px;
+    padding: 10px 0px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius:8px;
+    border:0;
+}
+
+.signup-form button:hover{
+    color: tomato;
+}

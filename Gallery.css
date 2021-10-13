@@ -1,0 +1,186 @@
+/* *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+} */
+
+/* body{
+
+    width: 100%;
+    min-height: 100vh;
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/* img{
+    width: 500px;
+    height:auto;
+    margin: 8px;
+    border: 8px double black;
+}  */
+    
+
+/* .image{
+    width: 500px;
+    height: 500px;
+    border: 4px solid black;
+    margin: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+    
+  
+    
+} */ 
+
+/* .img1{
+    background-image: url(./image/mcu1.jpg);
+    
+}
+
+.img2{
+    background-image: url(/image/mcu4.jpg);
+}
+
+.img3{
+    background-image: url(/image/mcu2.png);
+}
+
+.img4{
+    background-image: url(/image/mcu5.jpg);
+}
+
+.img5{
+    background-image: url(/image/mcu6.jpg);
+}
+
+.img6{
+    background-image: url(/image/mcu8.jpg);
+}
+
+.img7{
+    background-image: url(/image/mcu10.jpg);
+}
+
+.img8{
+    background-image: url(/image/mcu11.jpg);
+}
+
+.img9{
+    background-image: url(/image/mcu12.jpg);
+}
+
+.img10{
+    background-image: url(/image/mcu14.jpg);
+}
+
+.img11{
+    background-image: url(/image/mcu15.jpg);
+}
+
+.img12{
+    background-image: url(/image/doctor\ strange.jpg);
+}
+
+
+
+
+ */
+ 
+ 
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+    text-decoration: none;
+    background-color: skyblue;
+    
+    
+    
+    
+    }
+    
+    body{
+    
+    background-image: url(back11.jpg);
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+    }
+    
+    img{
+    
+        width:500px;
+        /* height: 500px; */
+        margin-top: 50px;
+        margin-left: 100px;
+        border:5px double black;
+    }
+    
+    
+    button {
+    
+        width: 100px;
+        height: 50px;
+        margin-top:20px;
+        left: 601px;
+        border:0px;
+        font-size: 20px;
+        border-radius: 20px;
+        position: fixed;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    
+    button:hover{
+        
+        font-family: cursive;
+        color: black;
+        
+    }
+    
+    a:hover{
+        
+        border-radius: 20px;
+        border: 2px solid rgb(23, 26, 23);
+        padding: 10px;
+        font-size: 30px;
+        /* color:rgb(167, 0, 0); */
+    }
+        
+    /* button a:visited {
+        color:rgb(156, 31, 0);
+    } */
+
+    a:hover{
+        color: rgb(151, 0, 0);
+    }
+
+   
+      
+    
+    
+    
+       
+        
+        
+    
+    
+    
+    
+        
+        
+        
+        
